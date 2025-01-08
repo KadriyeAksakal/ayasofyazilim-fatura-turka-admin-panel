@@ -58,7 +58,7 @@ const LoginWidget = () => {
   return (
     <div>
       <p className="text-center mt-4">
-        Your account doesn't have a token? ?{" "}
+        Your account doesn't have a token? {" "}
         <DrawerComponent title="Get Token" content={
            <Container className="p-8 max-w-md mx-auto">
              <Heading level="h2" className="mb-2">
